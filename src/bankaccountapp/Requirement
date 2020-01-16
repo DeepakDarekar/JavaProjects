@@ -1,0 +1,28 @@
+Bank Application
+
+Scenario--You are an backend devloper and need to create an application
+          to handle new Customer bank account Details
+          
+ *****************************************************
+1.Your application should do the following
+2.Read a .csv file of Names,SSN,account types and initial depositesUse a proper data Structure to hold all these accounts
+3.Both saving and checking accounts share the following property
+4.deposite(),Withdra(),transfer(),showinfo()
+5.11digit account number (genrated with the following process 1 or 2 depending on saving and checking,last two digits of SSN,Unique 5 digit number and random 3 digit number)
+6.Saving account holder are given a Saftey Deposite Box,Identified by 3 digit number and acced with 4 digit code
+7.Checking account holders are accessed debit card with 12 Digit number and 4 digit pin
+8.Both accounts will use an interface that determines the base intrest rate
+9.Savings accounts will use 25 points less than the base rate
+  Checking accounts will use 15% of the base rate 
+10.The Showinfo method should revel relevant account information as well as information specific to checking account or saving account
+
+*****************************************
+Learning Objectives
+1.Learn to devlop the robus application architecture 
+2.use When to use abstract method and abstract classes
+3.Use an interface API to receive the information from Devlopers application
+4.Explore Constructor deeper and Use of Super() keyword
+5.Explore Access modifire and when to use public private Protected
+6.Read Data from file and store it in appropriate dataStrucutr
+7Genrate Random number and Work with String API
+

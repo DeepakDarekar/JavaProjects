@@ -1,0 +1,13 @@
+Email Application
+
+*************************************************
+
+Scenario :You are an IT Support Administration Specialist and 
+are charged with task creating email account of new Hires
+Your Application Should do the following 
+1.Genrate an email with following syntax firstname.lastname@department.company.com
+2.Determine the Departments(Sales,Devlopment,Accounting)if none leave blank
+3.Genrate the Random string for password 
+4.Have Set Methods to Change the Password,Set the Mail Box Capacity and define alternate Mail Address 
+5.Have get methods to display name,email,mailbox capacity
+ 
